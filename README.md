@@ -1,4 +1,6 @@
 # odin-project-recipes
-Project for The Odin Project foundation course  https://www.theodinproject.com/lessons/foundations-recipes
+this is a project assigment for the odin project fundamental course 
 
-this is a project for the odin project fundamental course about html 
+this project help learner to have better understanding about :
+- html formatting 
+- git workflow  
